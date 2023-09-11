@@ -15,10 +15,10 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "me.x150.renderer.client.RendererMain"
+      "dev.paradise.renderer.client.RendererMain"
     ],
     "main": [
-      "me.x150.renderer.Renderer"
+      "dev.paradise.renderer.Renderer"
     ]
   },
   "mixins": [

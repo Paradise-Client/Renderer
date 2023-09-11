@@ -13,10 +13,10 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "me.x150.testmod.client.TestModClient"
+      "dev.paradise.testmod.client.TestModClient"
     ],
     "main": [
-      "me.x150.testmod.TestMod"
+      "dev.paradise.testmod.TestMod"
     ]
   },
   "mixins": [
