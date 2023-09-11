@@ -6,11 +6,11 @@
   "mixins": [
   ],
   "client": [
-    "DebugHudMixin",
-    "GameRendererMixin",
-    "InGameHudMixin",
-    "PostEffectPassAccessor",
-    "PostEffectProcessorMixin"
+    "dev.paradise.renderer.mixin.DebugHudMixin",
+    "dev.paradise.renderer.mixin.GameRendererMixin",
+    "dev.paradise.renderer.mixin.InGameHudMixin",
+    "dev.paradise.renderer.mixin.PostEffectPassAccessor",
+    "dev.paradise.renderer.mixin.PostEffectProcessorMixin"
   ],
   "injectors": {
     "defaultRequire": 1
